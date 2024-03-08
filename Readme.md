@@ -15,7 +15,7 @@ To test the code, follow these steps:
 3. Navigate to the directory containing the code:
 
    ```bash
-   cd https://github.com/markhristov/minigrep.git
+   cd minigrep
    ```
 
 4. Compile and run the code using Cargo. Execute the following command:
