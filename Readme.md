@@ -9,13 +9,13 @@ To test the code, follow these steps:
 2. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/markhristov/minigrep.git
    ```
 
 3. Navigate to the directory containing the code:
 
    ```bash
-   cd <repository-directory>
+   cd https://github.com/markhristov/minigrep.git
    ```
 
 4. Compile and run the code using Cargo. Execute the following command:
